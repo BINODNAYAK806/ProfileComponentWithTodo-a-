@@ -1,0 +1,16 @@
+.main{
+
+    background-color: aquamarine;
+    width: 500px;
+    height: 700px;
+}
+.img{
+
+    width: 150px;
+    height: 160px;
+    margin-top: 10px;
+    /* margin-left: 50px; */
+    /* justify-content: center;
+    justify-items: center; */
+    margin-left: 50px;
+}
