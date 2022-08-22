@@ -1,27 +1,11 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import Counter from './Components/Counter';
 
 function App() {
   return (
     <div >
-      <h1>Mobile Operating System</h1>
-      <ul>
-      <li>Android</li>
-      <li>Blackberry</li>
-      <li>iPhone</li>
-      <li>Windows Phone</li>
-
-      </ul>
-
-      <h1>Mobile Manufacturers</h1>
-      <ul>
-      <li>Samsung</li>
-      <li>Apple</li>
-      <li>Micromax</li>
-      <li>HTC</li>
-
-      </ul>
-
+      <Counter/>
     </div>
   );
 }
